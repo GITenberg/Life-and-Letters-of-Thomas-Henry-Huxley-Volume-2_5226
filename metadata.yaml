@@ -1,5 +1,5 @@
 _repo: Life-and-Letters-of-Thomas-Henry-Huxley-Volume-2_5226
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -36,5 +36,6 @@ subjects:
 - !lcc 'QH'
 - !lcsh 'Naturalists -- England -- Biography'
 - !lcsh 'Huxley, Thomas Henry, 1825-1895'
+- GITenberg
 title: Life and Letters of Thomas Henry Huxley — Volume 2
 url: http://www.gutenberg.org/ebooks/5226
